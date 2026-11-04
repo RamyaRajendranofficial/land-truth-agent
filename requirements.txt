@@ -1,0 +1,2 @@
+strands-agents>=1.42.0
+streamlit>=1.60.0

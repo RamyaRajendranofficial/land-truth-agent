@@ -1,0 +1,9 @@
+{
+  "Annur": {
+    "category": "PLACEHOLDER - replace with CGWB category (Safe / Semi-critical / Critical / Over-exploited)",
+    "water_table_depth_m": "unknown",
+    "trend": "unknown",
+    "source": "PLACEHOLDER - fill from CGWB / India-WRIS groundwater resource report",
+    "verified": false
+  }
+}
